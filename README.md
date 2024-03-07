@@ -13,7 +13,7 @@ pip install requirements.txt
 3. Clone this repository or download the project files to your local machine.
 
 # Usage
-python manage.py
+python main.py
 
 # Output
 The script saves the fetched data into a file named sample.json. Each entry in the JSON file represents a product's data as returned by the "dummyjson" API. The data is formatted for readability, with each product's information indented.
